@@ -1,4 +1,18 @@
-👋 Hello! I'm Clerivaldo Jr
+👋 Hello there!
+
+💬 About me
+Name: Clerivaldo Junior
+Age: 27
+Living in: João Pessoa, Paraĩba, Brazil(available to reallocate)
+Hobbies: Play videogames, cook a lot, watch movies and series, riding bikes
+📖 Education:
+Superior Degree in Information Systems Management, IPESU, concluded in Dec 2015
+
+🤔 Some curiosities
+Love to help and teach people
+I already had an burger store
+Started coding in 2014 in Technical School, but fallen to a hiatus in 2015 because of work, only returning in 2019
+First language learned was Python, first job was using PHP
 
 👨‍💻 Experienced web developer specializing in:
 - 🖥️ Node.js: Developing server-side logic for efficient web solutions.
